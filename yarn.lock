@@ -3369,9 +3369,9 @@ typedoc-github-wiki-theme@^2.1.0:
   integrity sha512-5j4vuoGwLn8PM1HeXocbwUF0Ra2qTFLeqsQwBQsLBPIx7Tl/lxkas1qIPFg/InOYwy9Y3Pn4xSjh+c/KM+jh6Q==
 
 typedoc-plugin-markdown@^4.6.4:
-  version "4.6.4"
-  resolved "https://registry.yarnpkg.com/typedoc-plugin-markdown/-/typedoc-plugin-markdown-4.6.4.tgz#b28ce1a31b93a1e5a31f74b5fcc6f27f0417cbee"
-  integrity sha512-AnbToFS1T1H+n40QbO2+i0wE6L+55rWnj7zxnM1r781+2gmhMF2dB6dzFpaylWLQYkbg4D1Y13sYnne/6qZwdw==
+  version "4.7.1"
+  resolved "https://registry.yarnpkg.com/typedoc-plugin-markdown/-/typedoc-plugin-markdown-4.7.1.tgz#2f2ffef815f5d52419b4a66cfa665d073162e741"
+  integrity sha512-HN/fHLm2S6MD4HX8txfB4eWvVBzX/mEYy5U5s1KTAdh3E5uX5/lilswqTzZlPTT6fNZInAboAdFGpbAuBKnE4A==
 
 typedoc@^0.28.5:
   version "0.28.5"
